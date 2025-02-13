@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\bin\Debug\net8.0\gerenciadordetarefas.exe
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\bin\Debug\net8.0\gerenciadordetarefas.deps.json
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\bin\Debug\net8.0\gerenciadordetarefas.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\bin\Debug\net8.0\gerenciadordetarefas.dll
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\bin\Debug\net8.0\gerenciadordetarefas.pdb
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.dll
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\refint\gerenciadordetarefas.dll
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.pdb
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\gerenciadordetarefas.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\BRENDHASKARLETT\gerenciadordetarefas\gerenciadordetarefas\obj\Debug\net8.0\ref\gerenciadordetarefas.dll
