@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\OneDrive\\Documents\\BRENDHASKARLETT\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\skarlett\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\OneDrive\\Documents\\BRENDHASKARLETT\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj": {
+    "C:\\Users\\Alunos\\Documents\\skarlett\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\BRENDHASKARLETT\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\skarlett\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj",
         "projectName": "gerenciadordetarefas",
-        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\BRENDHASKARLETT\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\skarlett\\gerenciadordetarefas\\gerenciadordetarefas\\gerenciadordetarefas.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\BRENDHASKARLETT\\gerenciadordetarefas\\gerenciadordetarefas\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\skarlett\\gerenciadordetarefas\\gerenciadordetarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

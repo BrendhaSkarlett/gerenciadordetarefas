@@ -26,21 +26,21 @@ namespace Layout
             Console.ResetColor(); // Reseta a cor após exibir a mensagem
         }
 
-        public static void ImprimirCabecalho()
-        {
-            Console.WriteLine("--------------------------------------------------");
-            Console.WriteLine("           GERENCIADOR DE TAREFAS"              );
-            Console.WriteLine("--------------------------------------------------");
-
-
+        public static string? ImprimirCabecalho()
+         {
+            Console.WriteLine("=====================================================================================================");
+            Console.WriteLine("                           GERENCIADOR DE TAREFAS                                                   ");
+            Console.WriteLine("=====================================================================================================");
             Console.WriteLine("1 - Adicionar Tarefa");
-            Console.WriteLine("2 - Listar Tarefa");
+            Console.WriteLine("2 - Listar Tarefas");
             Console.WriteLine("3 - Concluir Tarefa");
-            Console.WriteLine("4 - Remoover Tarefa");
+            Console.WriteLine("4 - Remover Tarefa");
             Console.WriteLine("0 - Sair");
-            Console.WriteLine("Ecolha uma opção: ");
+            Console.WriteLine("Escolha uma opção:");
 
+        
             string opção = Console.ReadLine();
+            return opção;
 
             
              
